@@ -1,1321 +1,852 @@
 {
     "Aatrox": {
-        "roles": [
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Ahri": {
-        "roles": [
-            "Mage",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage", "Assassin"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Akali": {
-        "roles": [
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Assassin"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Akshan": {
-        "roles": [
-            "Marksman",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman", "Assassin"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Alistar": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Ambessa": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Support"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Amumu": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Mage"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Anivia": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Annie": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Aphelios": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Ashe": {
-        "roles": [
-            "Marksman",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman", "Support"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "AurelionSol": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Aurora": {
-        "roles": [
-            "Mage",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Azir": {
-        "roles": [
-            "Mage",
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage", "Marksman"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Bard": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Support", "Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Belveth": {
-        "roles": [
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Blitzcrank": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Support"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Brand": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage", "Support"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Braum": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Support"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Briar": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Assassin"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Caitlyn": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Camille": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Cassiopeia": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Chogath": {
-        "roles": [
-            "Tank",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Mage"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Corki": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman", "Mage"],
+        "damageType": "mixed",
+        "rangeType": "ranged"
     },
     "Darius": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Tank"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Diana": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Mage"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Draven": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "DrMundo": {
-        "roles": [
-            "Tank",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Fighter"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Ekko": {
-        "roles": [
-            "Assassin",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Assassin", "Fighter"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Elise": {
-        "roles": [
-            "Assassin",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage", "Fighter"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Evelynn": {
-        "roles": [
-            "Assassin",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Assassin", "Mage"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Ezreal": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman", "Mage"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Fiddlesticks": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage", "Support"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Fiora": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Assassin"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Fizz": {
-        "roles": [
-            "Assassin",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Assassin", "Fighter"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Galio": {
-        "roles": [
-            "Tank",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Mage"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Gangplank": {
-        "roles": [
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Garen": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Tank"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Gnar": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Tank"],
+        "damageType": "mixed",
+        "rangeType": "melee"
     },
     "Gragas": {
-        "roles": [
-            "Fighter",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Mage"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Graves": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Gwen": {
-        "roles": [
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter"],
+        "damageType": "magic",
+        "rangeType": "melee"
     },
     "Hecarim": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Tank"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Heimerdinger": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage", "Support"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Hwei": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Illaoi": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Tank"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Irelia": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Assassin"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Ivern": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Support", "Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "Janna": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Support", "Mage"],
+        "damageType": "magic",
+        "rangeType": "ranged"
     },
     "JarvanIV": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Tank", "Fighter"],
+        "damageType": "physical",
+        "rangeType": "melee"
     },
     "Jax": {
-        "roles": [
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Assassin"],
+        "damageType": "mixed",
+        "rangeType": "melee"
     },
     "Jayce": {
-        "roles": [
-            "Marksman",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Fighter", "Marksman"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Jhin": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman", "Mage"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Jinx": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Kaisa": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
     "Kalista": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
+        "roles": ["Marksman"],
+        "damageType": "physical",
+        "rangeType": "ranged"
     },
-    "Karma": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Karthus": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Kassadin": {
-        "roles": [
-            "Assassin",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Katarina": {
-        "roles": [
-            "Assassin",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Kayle": {
-        "roles": [
-            "Mage",
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Kayn": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Kennen": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Khazix": {
-        "roles": [
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Kindred": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Kled": {
-        "roles": [
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "KogMaw": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "KSante": {
-        "roles": [
-            "Tank",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Leblanc": {
-        "roles": [
-            "Assassin",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "LeeSin": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Leona": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Lillia": {
-        "roles": [
-            "Fighter",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Lissandra": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Lucian": {
-        "roles": [
-            "Marksman",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Lulu": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Lux": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Malphite": {
-        "roles": [
-            "Tank",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Malzahar": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Maokai": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "MasterYi": {
-        "roles": [
-            "Assassin",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Mel": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Milio": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "MissFortune": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "MonkeyKing": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Mordekaiser": {
-        "roles": [
-            "Fighter",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Morgana": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Naafiri": {
-        "roles": [
-            "Assassin",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Nami": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Nasus": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Nautilus": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Neeko": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
+  "Karthus": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Karma": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Kaisa": {
+    "roles": ["Marksman", "Assassin"],
+    "damageType": "Mixed",
+    "rangeType": "Ranged"
+  },
+  "Kayle": {
+    "roles": ["Fighter", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Melee → Ranged"
+  },
+  "Kassadin": {
+    "roles": ["Assassin", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Katarina": {
+    "roles": ["Assassin", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Kayn": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Kennen": {
+    "roles": ["Mage", "Marksman"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Khazix": {
+    "roles": ["Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Kindred": {
+    "roles": ["Marksman", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Kled": {
+    "roles": ["Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "KogMaw": {
+    "roles": ["Marksman", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "KSante": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Leblanc": {
+    "roles": ["Assassin", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "LeeSin": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Leona": {
+    "roles": ["Tank", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Lillia": {
+    "roles": ["Fighter", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Lissandra": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Lucian": {
+    "roles": ["Marksman"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Lulu": {
+    "roles": ["Support", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Lux": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Malphite": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Malzahar": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Maokai": {
+    "roles": ["Tank", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "MasterYi": {
+    "roles": ["Assassin", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Milio": {
+    "roles": ["Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "MissFortune": {
+    "roles": ["Marksman"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Mordekaiser": {
+    "roles": ["Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Morgana": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Naafiri": {
+    "roles": ["Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Nami": {
+    "roles": ["Support", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Nasus": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Nautilus": {
+    "roles": ["Tank", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Neeko": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
     "Nidalee": {
-        "roles": [
-            "Assassin",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Nilah": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Nocturne": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Nunu": {
-        "roles": [
-            "Tank",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Olaf": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Orianna": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Ornn": {
-        "roles": [
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Pantheon": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Poppy": {
-        "roles": [
-            "Tank",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Pyke": {
-        "roles": [
-            "Support",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Qiyana": {
-        "roles": [
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Quinn": {
-        "roles": [
-            "Marksman",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Rakan": {
-        "roles": [
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Rammus": {
-        "roles": [
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "RekSai": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Rell": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Renata": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Renekton": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Rengar": {
-        "roles": [
-            "Assassin",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Riven": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Rumble": {
-        "roles": [
-            "Fighter",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Ryze": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Samira": {
-        "roles": [
-            "Marksman",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Sejuani": {
-        "roles": [
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Senna": {
-        "roles": [
-            "Support",
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Seraphine": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Sett": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Shaco": {
-        "roles": [
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Shen": {
-        "roles": [
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Shyvana": {
-        "roles": [
-            "Fighter",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Singed": {
-        "roles": [
-            "Tank",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Sion": {
-        "roles": [
-            "Tank",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Sivir": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Skarner": {
-        "roles": [
-            "Tank",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Smolder": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
+    "roles": ["Assassin", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged → Melee"
+  },
+  "Nilah": {
+    "roles": ["Fighter", "Marksman"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Nocturne": {
+    "roles": ["Assassin", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Nunu": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Olaf": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Orianna": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Ornn": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Pantheon": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Poppy": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Pyke": {
+    "roles": ["Support", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Qiyana": {
+    "roles": ["Assassin", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Quinn": {
+    "roles": ["Marksman", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Rakan": {
+    "roles": ["Support", "Tank"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Rammus": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "RekSai": {
+    "roles": ["Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Rell": {
+    "roles": ["Tank", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Renata": {
+    "roles": ["Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Renekton": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Rengar": {
+    "roles": ["Assassin", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Riven": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Rumble": {
+    "roles": ["Fighter", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Ryze": {
+    "roles": ["Mage", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Samira": {
+    "roles": ["Marksman"],
+    "damageType": "Physical",
+    "rangeType": "Ranged → Melee"
+  },
+  "Sejuani": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Senna": {
+    "roles": ["Marksman", "Support"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Seraphine": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Sett": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Shaco": {
+    "roles": ["Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Shen": {
+    "roles": ["Tank", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Shyvana": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Singed": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Sion": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Sivir": {
+    "roles": ["Marksman"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Skarner": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Smolder": {
+    "roles": ["Marksman"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
     "Sona": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Soraka": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Swain": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Sylas": {
-        "roles": [
-            "Mage",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Syndra": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "TahmKench": {
-        "roles": [
-            "Tank",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Taliyah": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Talon": {
-        "roles": [
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Taric": {
-        "roles": [
-            "Support",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Teemo": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Thresh": {
-        "roles": [
-            "Support",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Tristana": {
-        "roles": [
-            "Marksman",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Trundle": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Tryndamere": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "TwistedFate": {
-        "roles": [
-            "Mage",
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Twitch": {
-        "roles": [
-            "Marksman",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Udyr": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Urgot": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Varus": {
-        "roles": [
-            "Marksman",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Vayne": {
-        "roles": [
-            "Marksman",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Veigar": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Velkoz": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Vex": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Vi": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Viego": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Viktor": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Vladimir": {
-        "roles": [
-            "Mage",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Volibear": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Warwick": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Xayah": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Xerath": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "XinZhao": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Yasuo": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Yone": {
-        "roles": [
-            "Fighter",
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Yorick": {
-        "roles": [
-            "Fighter",
-            "Tank"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Yuumi": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Zac": {
-        "roles": [
-            "Tank",
-            "Fighter"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Zed": {
-        "roles": [
-            "Assassin"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Zeri": {
-        "roles": [
-            "Marksman"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Ziggs": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Zilean": {
-        "roles": [
-            "Support",
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Zoe": {
-        "roles": [
-            "Mage"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    },
-    "Zyra": {
-        "roles": [
-            "Mage",
-            "Support"
-        ],
-        "damageType": "unknown",
-        "rangeType": "unknown"
-    }
+    "roles": ["Support", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Soraka": {
+    "roles": ["Support", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Swain": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Sylas": {
+    "roles": ["Mage", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Syndra": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "TahmKench": {
+    "roles": ["Tank", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Taliyah": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Talon": {
+    "roles": ["Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Taric": {
+    "roles": ["Support", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Teemo": {
+    "roles": ["Marksman", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Thresh": {
+    "roles": ["Support", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Tristana": {
+    "roles": ["Marksman", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Trundle": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Tryndamere": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "TwistedFate": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Twitch": {
+    "roles": ["Marksman", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Udyr": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Urgot": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Varus": {
+    "roles": ["Marksman", "Mage"],
+    "damageType": "Mixed",
+    "rangeType": "Ranged"
+  },
+  "Vayne": {
+    "roles": ["Marksman", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Veigar": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Velkoz": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Vex": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Vi": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Viego": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Viktor": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Vladimir": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Volibear": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Warwick": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Wukong": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Xayah": {
+    "roles": ["Marksman"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Xerath": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "XinZhao": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Yasuo": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Yone": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Mixed",
+    "rangeType": "Melee"
+  },
+  "Yorick": {
+    "roles": ["Fighter", "Tank"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Yuumi": {
+    "roles": ["Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Zac": {
+    "roles": ["Tank", "Fighter"],
+    "damageType": "Magic",
+    "rangeType": "Melee"
+  },
+  "Zed": {
+    "roles": ["Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Zeri": {
+    "roles": ["Marksman"],
+    "damageType": "Physical",
+    "rangeType": "Ranged"
+  },
+  "Ziggs": {
+    "roles": ["Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Zilean": {
+    "roles": ["Support", "Mage"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Zoe": {
+    "roles": ["Mage", "Assassin"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Zyra": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  }, 
+  "Aurora": {
+    "roles": ["Mage", "Assassin"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  },
+  "Ambessa": {
+    "roles": ["Fighter", "Assassin"],
+    "damageType": "Physical",
+    "rangeType": "Melee"
+  },
+  "Mel": {
+    "roles": ["Mage", "Support"],
+    "damageType": "Magic",
+    "rangeType": "Ranged"
+  }
 }
