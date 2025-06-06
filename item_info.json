@@ -1,0 +1,1973 @@
+{
+    "1001": {
+        "FlatMovementSpeedMod": 25
+    },
+    "1004": {},
+    "1006": {},
+    "1011": {
+        "FlatHPPoolMod": 350
+    },
+    "1018": {
+        "FlatCritChanceMod": 0.15
+    },
+    "1026": {
+        "FlatMagicDamageMod": 45
+    },
+    "1027": {
+        "FlatMPPoolMod": 300
+    },
+    "1028": {
+        "FlatHPPoolMod": 150
+    },
+    "1029": {
+        "FlatArmorMod": 15
+    },
+    "1031": {
+        "FlatArmorMod": 40
+    },
+    "1033": {
+        "FlatSpellBlockMod": 20
+    },
+    "1035": {},
+    "1036": {
+        "FlatPhysicalDamageMod": 10
+    },
+    "1037": {
+        "FlatPhysicalDamageMod": 25
+    },
+    "1038": {
+        "FlatPhysicalDamageMod": 40
+    },
+    "1039": {},
+    "1040": {},
+    "1042": {
+        "PercentAttackSpeedMod": 0.1
+    },
+    "1043": {
+        "PercentAttackSpeedMod": 0.15
+    },
+    "1052": {
+        "FlatMagicDamageMod": 20
+    },
+    "1053": {
+        "FlatPhysicalDamageMod": 15,
+        "PercentLifeStealMod": 0.07
+    },
+    "1054": {
+        "FlatHPPoolMod": 110,
+        "FlatHPRegenMod": 0.8
+    },
+    "1055": {
+        "FlatHPPoolMod": 80,
+        "FlatPhysicalDamageMod": 10,
+        "PercentLifeStealMod": 0.03
+    },
+    "1056": {
+        "FlatHPPoolMod": 90,
+        "FlatMagicDamageMod": 18
+    },
+    "1057": {
+        "FlatSpellBlockMod": 45
+    },
+    "1058": {
+        "FlatMagicDamageMod": 65
+    },
+    "1082": {
+        "FlatHPPoolMod": 50,
+        "FlatMagicDamageMod": 15
+    },
+    "1083": {
+        "FlatPhysicalDamageMod": 7
+    },
+    "1101": {},
+    "1102": {},
+    "1103": {},
+    "1104": {},
+    "1105": {},
+    "1106": {},
+    "1107": {},
+    "126697": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "1500": {},
+    "1501": {},
+    "1502": {},
+    "1503": {},
+    "1504": {},
+    "1506": {},
+    "1507": {},
+    "1508": {},
+    "1509": {},
+    "1510": {},
+    "1511": {},
+    "1512": {},
+    "1515": {},
+    "1516": {},
+    "1517": {},
+    "1518": {},
+    "1519": {},
+    "1520": {},
+    "1521": {},
+    "1522": {},
+    "1523": {},
+    "2003": {},
+    "2010": {},
+    "2015": {
+        "FlatPhysicalDamageMod": 15
+    },
+    "2019": {
+        "FlatArmorMod": 30,
+        "FlatPhysicalDamageMod": 15
+    },
+    "2020": {
+        "FlatPhysicalDamageMod": 25
+    },
+    "2021": {
+        "FlatHPPoolMod": 250,
+        "FlatPhysicalDamageMod": 15
+    },
+    "2022": {},
+    "2031": {},
+    "2033": {},
+    "2049": {
+        "FlatMagicDamageMod": 20
+    },
+    "2050": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 35
+    },
+    "2051": {
+        "FlatHPPoolMod": 150,
+        "FlatHPRegenMod": 4
+    },
+    "2052": {},
+    "2055": {},
+    "2056": {},
+    "2065": {
+        "FlatMagicDamageMod": 50,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "2138": {},
+    "2139": {},
+    "2140": {},
+    "2141": {},
+    "2142": {},
+    "2143": {},
+    "2144": {},
+    "2145": {},
+    "2146": {},
+    "2150": {},
+    "2151": {},
+    "2152": {},
+    "220000": {},
+    "220001": {},
+    "220002": {},
+    "220003": {},
+    "220004": {},
+    "220005": {},
+    "220006": {},
+    "220007": {},
+    "220008": {},
+    "220009": {},
+    "220010": {},
+    "220011": {},
+    "221011": {
+        "FlatHPPoolMod": 300
+    },
+    "221026": {
+        "FlatMagicDamageMod": 45
+    },
+    "221031": {
+        "FlatArmorMod": 40
+    },
+    "221038": {
+        "FlatPhysicalDamageMod": 40
+    },
+    "221043": {
+        "PercentAttackSpeedMod": 0.15
+    },
+    "221053": {
+        "FlatPhysicalDamageMod": 15,
+        "PercentLifeStealMod": 0.07
+    },
+    "221057": {
+        "FlatSpellBlockMod": 30
+    },
+    "221058": {
+        "FlatMagicDamageMod": 120
+    },
+    "222022": {},
+    "222051": {
+        "FlatHPPoolMod": 300,
+        "FlatHPRegenMod": 4
+    },
+    "222065": {
+        "FlatMagicDamageMod": 55,
+        "PercentMovementSpeedMod": 0.06
+    },
+    "222141": {},
+    "222502": {
+        "FlatSpellBlockMod": 25,
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 25
+    },
+    "222503": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 60
+    },
+    "222504": {
+        "FlatSpellBlockMod": 80,
+        "FlatHPPoolMod": 350
+    },
+    "223001": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 200,
+        "FlatArmorMod": 30
+    },
+    "223002": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 45,
+        "PercentMovementSpeedMod": 0.06
+    },
+    "223003": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 55
+    },
+    "223004": {
+        "FlatMPPoolMod": 600,
+        "FlatPhysicalDamageMod": 40
+    },
+    "223005": {
+        "FlatMovementSpeedMod": 70
+    },
+    "223006": {
+        "FlatMovementSpeedMod": 55,
+        "PercentAttackSpeedMod": 0.35
+    },
+    "223009": {
+        "FlatMovementSpeedMod": 70
+    },
+    "223011": {
+        "FlatMagicDamageMod": 35
+    },
+    "223020": {
+        "FlatMovementSpeedMod": 55
+    },
+    "223026": {
+        "FlatArmorMod": 45,
+        "FlatPhysicalDamageMod": 55
+    },
+    "223031": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 55
+    },
+    "223032": {
+        "FlatPhysicalDamageMod": 45,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "223033": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 30
+    },
+    "223036": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 30
+    },
+    "223039": {
+        "FlatHPPoolMod": 700,
+        "FlatCritChanceMod": 0.2
+    },
+    "223040": {
+        "FlatMPPoolMod": 1200,
+        "FlatMagicDamageMod": 60
+    },
+    "223042": {
+        "FlatMPPoolMod": 1000,
+        "FlatPhysicalDamageMod": 40
+    },
+    "223046": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.6,
+        "PercentMovementSpeedMod": 0.08
+    },
+    "223047": {
+        "FlatMovementSpeedMod": 30,
+        "FlatArmorMod": 25
+    },
+    "223050": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 25
+    },
+    "223053": {
+        "FlatHPPoolMod": 300
+    },
+    "223057": {},
+    "223065": {
+        "FlatSpellBlockMod": 40,
+        "FlatHPPoolMod": 300
+    },
+    "223067": {
+        "FlatHPPoolMod": 200
+    },
+    "223068": {
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 40
+    },
+    "223071": {
+        "FlatHPPoolMod": 350,
+        "FlatPhysicalDamageMod": 40
+    },
+    "223072": {
+        "FlatPhysicalDamageMod": 70,
+        "PercentLifeStealMod": 0.18
+    },
+    "223073": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.2
+    },
+    "223074": {
+        "FlatPhysicalDamageMod": 55,
+        "PercentLifeStealMod": 0.15
+    },
+    "223075": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 60
+    },
+    "223078": {
+        "FlatHPPoolMod": 333,
+        "FlatPhysicalDamageMod": 35,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "223084": {
+        "FlatHPPoolMod": 700
+    },
+    "223085": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.45,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "223087": {
+        "FlatPhysicalDamageMod": 45,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "223089": {
+        "FlatMagicDamageMod": 65
+    },
+    "223091": {
+        "FlatSpellBlockMod": 40,
+        "PercentAttackSpeedMod": 0.5
+    },
+    "223094": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.3,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "223095": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 45,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "223100": {
+        "FlatMagicDamageMod": 80,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "223102": {
+        "FlatSpellBlockMod": 40,
+        "FlatMagicDamageMod": 80
+    },
+    "223105": {
+        "FlatSpellBlockMod": 30,
+        "FlatArmorMod": 30
+    },
+    "223107": {
+        "FlatHPPoolMod": 300
+    },
+    "223109": {
+        "FlatHPPoolMod": 400,
+        "FlatArmorMod": 50
+    },
+    "223110": {
+        "FlatMPPoolMod": 450,
+        "FlatArmorMod": 90
+    },
+    "223111": {
+        "FlatSpellBlockMod": 30,
+        "FlatMovementSpeedMod": 30
+    },
+    "223112": {
+        "FlatMagicDamageMod": 55
+    },
+    "223115": {
+        "FlatMagicDamageMod": 70,
+        "PercentAttackSpeedMod": 0.45
+    },
+    "223116": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 60
+    },
+    "223118": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 70
+    },
+    "223119": {
+        "FlatMPPoolMod": 600,
+        "FlatHPPoolMod": 400
+    },
+    "223121": {
+        "FlatMPPoolMod": 1000,
+        "FlatHPPoolMod": 400
+    },
+    "223124": {
+        "FlatMagicDamageMod": 25,
+        "FlatPhysicalDamageMod": 20,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "223135": {
+        "FlatMagicDamageMod": 65
+    },
+    "223137": {
+        "FlatMagicDamageMod": 60
+    },
+    "223139": {
+        "FlatSpellBlockMod": 40,
+        "FlatPhysicalDamageMod": 45,
+        "PercentLifeStealMod": 0.1
+    },
+    "223142": {
+        "FlatPhysicalDamageMod": 55,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "223143": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 75
+    },
+    "223146": {
+        "FlatMagicDamageMod": 90,
+        "FlatPhysicalDamageMod": 45
+    },
+    "223152": {
+        "FlatHPPoolMod": 400,
+        "FlatMagicDamageMod": 95
+    },
+    "223153": {
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.2,
+        "PercentLifeStealMod": 0.1
+    },
+    "223156": {
+        "FlatSpellBlockMod": 40,
+        "FlatPhysicalDamageMod": 50
+    },
+    "223157": {
+        "FlatMagicDamageMod": 80,
+        "FlatArmorMod": 50
+    },
+    "223158": {
+        "FlatMovementSpeedMod": 45
+    },
+    "223161": {
+        "FlatHPPoolMod": 200,
+        "FlatPhysicalDamageMod": 40
+    },
+    "223165": {
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 90
+    },
+    "223172": {
+        "PercentAttackSpeedMod": 0.5,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "223177": {
+        "FlatHPPoolMod": 250,
+        "FlatPhysicalDamageMod": 25
+    },
+    "223181": {
+        "FlatHPPoolMod": 500,
+        "FlatPhysicalDamageMod": 40,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "223184": {
+        "FlatPhysicalDamageMod": 25,
+        "PercentAttackSpeedMod": 0.35,
+        "PercentLifeStealMod": 0.05
+    },
+    "223185": {
+        "FlatPhysicalDamageMod": 25
+    },
+    "223190": {
+        "FlatSpellBlockMod": 35,
+        "FlatHPPoolMod": 400,
+        "FlatArmorMod": 25
+    },
+    "223193": {
+        "FlatSpellBlockMod": 60,
+        "FlatArmorMod": 60
+    },
+    "223222": {
+        "FlatHPPoolMod": 400
+    },
+    "223302": {
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "223504": {
+        "FlatMagicDamageMod": 40,
+        "PercentMovementSpeedMod": 0.06
+    },
+    "223508": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 50
+    },
+    "223742": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 40,
+        "PercentMovementSpeedMod": 0.07
+    },
+    "223748": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 40
+    },
+    "223814": {
+        "FlatHPPoolMod": 375,
+        "FlatPhysicalDamageMod": 45
+    },
+    "224004": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "224005": {
+        "FlatMagicDamageMod": 60
+    },
+    "224401": {
+        "FlatSpellBlockMod": 50,
+        "FlatHPPoolMod": 400,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "224403": {
+        "FlatSpellBlockMod": 30,
+        "FlatMPPoolMod": 250,
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 125,
+        "FlatArmorMod": 30,
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 90,
+        "PercentAttackSpeedMod": 0.6,
+        "PercentLifeStealMod": 0.1,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "224628": {
+        "FlatMagicDamageMod": 80
+    },
+    "224629": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 65,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "224633": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 60
+    },
+    "224636": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 90
+    },
+    "224637": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 75
+    },
+    "224644": {
+        "FlatMPPoolMod": 600,
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 85
+    },
+    "224645": {
+        "FlatMagicDamageMod": 90
+    },
+    "224646": {
+        "FlatMagicDamageMod": 80,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "226035": {
+        "FlatSpellBlockMod": 40,
+        "FlatHPPoolMod": 300,
+        "FlatPhysicalDamageMod": 40
+    },
+    "226333": {
+        "FlatArmorMod": 45,
+        "FlatPhysicalDamageMod": 60
+    },
+    "226609": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 45
+    },
+    "226610": {
+        "FlatHPPoolMod": 350,
+        "FlatPhysicalDamageMod": 40
+    },
+    "226616": {
+        "FlatMagicDamageMod": 55,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "226617": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 35
+    },
+    "226620": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 40
+    },
+    "226621": {
+        "FlatMagicDamageMod": 45
+    },
+    "226630": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 55
+    },
+    "226631": {
+        "FlatHPPoolMod": 375,
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.15
+    },
+    "226632": {
+        "FlatHPPoolMod": 300,
+        "FlatPhysicalDamageMod": 40
+    },
+    "226653": {
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 50
+    },
+    "226655": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 85
+    },
+    "226656": {
+        "FlatMPPoolMod": 600,
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 70
+    },
+    "226657": {
+        "FlatMPPoolMod": 300,
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 60
+    },
+    "226662": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 45
+    },
+    "226664": {
+        "FlatSpellBlockMod": 40,
+        "FlatHPPoolMod": 450
+    },
+    "226665": {
+        "FlatSpellBlockMod": 35,
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 35
+    },
+    "226667": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 30
+    },
+    "226671": {
+        "FlatCritChanceMod": 0.2,
+        "FlatPhysicalDamageMod": 50,
+        "PercentAttackSpeedMod": 0.15,
+        "PercentMovementSpeedMod": 0.07
+    },
+    "226672": {
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.35,
+        "PercentMovementSpeedMod": 0.07
+    },
+    "226673": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 55
+    },
+    "226675": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.35,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "226676": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 45
+    },
+    "226691": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "226692": {
+        "FlatPhysicalDamageMod": 50
+    },
+    "226693": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "226694": {
+        "FlatPhysicalDamageMod": 40
+    },
+    "226695": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "226696": {
+        "FlatPhysicalDamageMod": 45
+    },
+    "226697": {
+        "FlatPhysicalDamageMod": 50
+    },
+    "226698": {
+        "FlatPhysicalDamageMod": 50
+    },
+    "226699": {
+        "FlatPhysicalDamageMod": 50
+    },
+    "226701": {
+        "FlatPhysicalDamageMod": 50
+    },
+    "228001": {
+        "FlatHPPoolMod": 650
+    },
+    "228002": {
+        "FlatMagicDamageMod": 300,
+        "FlatArmorMod": 50
+    },
+    "228003": {
+        "FlatCritChanceMod": 0.2,
+        "FlatPhysicalDamageMod": 150
+    },
+    "228004": {
+        "FlatSpellBlockMod": 100,
+        "FlatHPPoolMod": 800,
+        "FlatArmorMod": 50,
+        "PercentMovementSpeedMod": 0.05
+    },
+    "228005": {
+        "FlatHPPoolMod": 700,
+        "FlatPhysicalDamageMod": 70
+    },
+    "228006": {
+        "FlatPhysicalDamageMod": 130,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentLifeStealMod": 0.3
+    },
+    "228008": {
+        "FlatHPPoolMod": 600,
+        "FlatMagicDamageMod": 85,
+        "FlatArmorMod": 50,
+        "FlatCritChanceMod": 0.2,
+        "FlatPhysicalDamageMod": 65,
+        "PercentAttackSpeedMod": 0.3,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "228020": {
+        "FlatSpellBlockMod": 50,
+        "FlatHPPoolMod": 350
+    },
+    "2403": {},
+    "2420": {
+        "FlatMagicDamageMod": 40,
+        "FlatArmorMod": 25
+    },
+    "2421": {
+        "FlatMagicDamageMod": 40,
+        "FlatArmorMod": 25
+    },
+    "2422": {
+        "FlatMovementSpeedMod": 25
+    },
+    "2501": {
+        "FlatHPPoolMod": 550,
+        "FlatPhysicalDamageMod": 30
+    },
+    "2502": {
+        "FlatSpellBlockMod": 25,
+        "FlatHPPoolMod": 400,
+        "FlatArmorMod": 25
+    },
+    "2503": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 80
+    },
+    "2504": {
+        "FlatSpellBlockMod": 80,
+        "FlatHPPoolMod": 400
+    },
+    "2508": {
+        "FlatMagicDamageMod": 30
+    },
+    "3001": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 200,
+        "FlatArmorMod": 30
+    },
+    "3002": {
+        "FlatHPPoolMod": 250,
+        "FlatArmorMod": 40,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3003": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 70
+    },
+    "3004": {
+        "FlatMPPoolMod": 500,
+        "FlatPhysicalDamageMod": 35
+    },
+    "3005": {
+        "FlatMovementSpeedMod": 45
+    },
+    "3006": {
+        "FlatMovementSpeedMod": 45,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "3009": {
+        "FlatMovementSpeedMod": 55
+    },
+    "3010": {
+        "FlatMovementSpeedMod": 40
+    },
+    "3011": {
+        "FlatMagicDamageMod": 35
+    },
+    "3012": {
+        "FlatHPPoolMod": 200
+    },
+    "3013": {
+        "FlatMovementSpeedMod": 45
+    },
+    "3020": {
+        "FlatMovementSpeedMod": 45
+    },
+    "3023": {
+        "FlatHPPoolMod": 150,
+        "FlatArmorMod": 25
+    },
+    "3024": {
+        "FlatMPPoolMod": 300,
+        "FlatArmorMod": 25
+    },
+    "3026": {
+        "FlatArmorMod": 45,
+        "FlatPhysicalDamageMod": 55
+    },
+    "3031": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 65
+    },
+    "3032": {
+        "FlatPhysicalDamageMod": 55,
+        "PercentAttackSpeedMod": 0.35
+    },
+    "3033": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 35
+    },
+    "3035": {
+        "FlatPhysicalDamageMod": 20
+    },
+    "3036": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 35
+    },
+    "3039": {
+        "FlatSpellBlockMod": 30,
+        "FlatArmorMod": 30,
+        "FlatPhysicalDamageMod": 25
+    },
+    "3040": {
+        "FlatMPPoolMod": 1000,
+        "FlatMagicDamageMod": 70
+    },
+    "3041": {
+        "FlatHPPoolMod": 100,
+        "FlatMagicDamageMod": 20
+    },
+    "3042": {
+        "FlatMPPoolMod": 860,
+        "FlatPhysicalDamageMod": 35
+    },
+    "3044": {
+        "FlatHPPoolMod": 200,
+        "FlatPhysicalDamageMod": 15
+    },
+    "3046": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.6,
+        "PercentMovementSpeedMod": 0.08
+    },
+    "3047": {
+        "FlatMovementSpeedMod": 45,
+        "FlatArmorMod": 25
+    },
+    "3050": {
+        "FlatSpellBlockMod": 25,
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 25
+    },
+    "3051": {
+        "FlatPhysicalDamageMod": 20,
+        "PercentAttackSpeedMod": 0.2
+    },
+    "3053": {
+        "FlatHPPoolMod": 400
+    },
+    "3057": {},
+    "3065": {
+        "FlatSpellBlockMod": 50,
+        "FlatHPPoolMod": 400
+    },
+    "3066": {
+        "FlatHPPoolMod": 200,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3067": {
+        "FlatHPPoolMod": 200
+    },
+    "3068": {
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 50
+    },
+    "3070": {
+        "FlatMPPoolMod": 240
+    },
+    "3071": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 40
+    },
+    "3072": {
+        "FlatPhysicalDamageMod": 80,
+        "PercentLifeStealMod": 0.15
+    },
+    "3073": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.2
+    },
+    "3074": {
+        "FlatPhysicalDamageMod": 65,
+        "PercentLifeStealMod": 0.12
+    },
+    "3075": {
+        "FlatHPPoolMod": 150,
+        "FlatArmorMod": 75
+    },
+    "3076": {
+        "FlatArmorMod": 30
+    },
+    "3077": {
+        "FlatPhysicalDamageMod": 20
+    },
+    "3078": {
+        "FlatHPPoolMod": 333,
+        "FlatPhysicalDamageMod": 36,
+        "PercentAttackSpeedMod": 0.3
+    },
+    "3082": {
+        "FlatArmorMod": 40
+    },
+    "3083": {
+        "FlatHPPoolMod": 1000
+    },
+    "3084": {
+        "FlatHPPoolMod": 900
+    },
+    "3085": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3086": {
+        "FlatCritChanceMod": 0.15,
+        "PercentAttackSpeedMod": 0.15,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3087": {
+        "FlatPhysicalDamageMod": 45,
+        "PercentAttackSpeedMod": 0.3,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3089": {
+        "FlatMagicDamageMod": 130
+    },
+    "3091": {
+        "FlatSpellBlockMod": 45,
+        "PercentAttackSpeedMod": 0.5
+    },
+    "3094": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.35,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3095": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 65
+    },
+    "3100": {
+        "FlatMagicDamageMod": 100,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3102": {
+        "FlatSpellBlockMod": 40,
+        "FlatMagicDamageMod": 105
+    },
+    "3105": {
+        "FlatSpellBlockMod": 25,
+        "FlatArmorMod": 25
+    },
+    "3107": {
+        "FlatHPPoolMod": 200
+    },
+    "3108": {
+        "FlatMagicDamageMod": 25
+    },
+    "3109": {
+        "FlatHPPoolMod": 200,
+        "FlatArmorMod": 40
+    },
+    "3110": {
+        "FlatMPPoolMod": 400,
+        "FlatArmorMod": 75
+    },
+    "3111": {
+        "FlatSpellBlockMod": 20,
+        "FlatMovementSpeedMod": 45
+    },
+    "3112": {
+        "FlatHPPoolMod": 150,
+        "FlatMagicDamageMod": 50
+    },
+    "3113": {
+        "FlatMagicDamageMod": 30,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3114": {},
+    "3115": {
+        "FlatMagicDamageMod": 80,
+        "PercentAttackSpeedMod": 0.5
+    },
+    "3116": {
+        "FlatHPPoolMod": 400,
+        "FlatMagicDamageMod": 65
+    },
+    "3117": {
+        "FlatMovementSpeedMod": 45
+    },
+    "3118": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 90
+    },
+    "3119": {
+        "FlatMPPoolMod": 500,
+        "FlatHPPoolMod": 550
+    },
+    "3121": {
+        "FlatMPPoolMod": 860,
+        "FlatHPPoolMod": 550
+    },
+    "3123": {
+        "FlatPhysicalDamageMod": 15
+    },
+    "3124": {
+        "FlatMagicDamageMod": 30,
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "3128": {
+        "FlatMagicDamageMod": 120
+    },
+    "3131": {
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "3133": {
+        "FlatPhysicalDamageMod": 20
+    },
+    "3134": {
+        "FlatPhysicalDamageMod": 20
+    },
+    "3135": {
+        "FlatMagicDamageMod": 95
+    },
+    "3137": {
+        "FlatMagicDamageMod": 75
+    },
+    "3139": {
+        "FlatSpellBlockMod": 40,
+        "FlatPhysicalDamageMod": 40,
+        "PercentLifeStealMod": 0.1
+    },
+    "3140": {
+        "FlatSpellBlockMod": 30
+    },
+    "3142": {
+        "FlatPhysicalDamageMod": 55,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3143": {
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 75
+    },
+    "3144": {
+        "PercentAttackSpeedMod": 0.2
+    },
+    "3145": {
+        "FlatMagicDamageMod": 45
+    },
+    "3146": {
+        "FlatMagicDamageMod": 80,
+        "FlatPhysicalDamageMod": 40
+    },
+    "3147": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 30
+    },
+    "3152": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 70
+    },
+    "3153": {
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.25,
+        "PercentLifeStealMod": 0.1
+    },
+    "3155": {
+        "FlatSpellBlockMod": 25,
+        "FlatPhysicalDamageMod": 25
+    },
+    "3156": {
+        "FlatSpellBlockMod": 40,
+        "FlatPhysicalDamageMod": 60
+    },
+    "3157": {
+        "FlatMagicDamageMod": 105,
+        "FlatArmorMod": 50
+    },
+    "3158": {
+        "FlatMovementSpeedMod": 45
+    },
+    "3161": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 45
+    },
+    "3165": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 75
+    },
+    "3170": {
+        "FlatMovementSpeedMod": 65
+    },
+    "3171": {
+        "FlatMovementSpeedMod": 50
+    },
+    "3172": {
+        "FlatMovementSpeedMod": 50,
+        "PercentAttackSpeedMod": 0.4
+    },
+    "3173": {
+        "FlatSpellBlockMod": 35,
+        "FlatMovementSpeedMod": 50
+    },
+    "3174": {
+        "FlatMovementSpeedMod": 50,
+        "FlatArmorMod": 40
+    },
+    "3175": {
+        "FlatMovementSpeedMod": 50
+    },
+    "3176": {
+        "FlatMovementSpeedMod": 55
+    },
+    "3177": {
+        "FlatHPPoolMod": 150,
+        "FlatPhysicalDamageMod": 30
+    },
+    "3179": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "3181": {
+        "FlatHPPoolMod": 500,
+        "FlatPhysicalDamageMod": 40,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3184": {
+        "FlatHPPoolMod": 150,
+        "FlatPhysicalDamageMod": 25,
+        "PercentLifeStealMod": 0.05
+    },
+    "3190": {
+        "FlatSpellBlockMod": 25,
+        "FlatHPPoolMod": 200,
+        "FlatArmorMod": 25
+    },
+    "3193": {
+        "FlatSpellBlockMod": 60,
+        "FlatArmorMod": 60
+    },
+    "3211": {
+        "FlatSpellBlockMod": 35,
+        "FlatHPPoolMod": 200
+    },
+    "322065": {
+        "FlatMagicDamageMod": 65,
+        "PercentMovementSpeedMod": 0.06
+    },
+    "3222": {
+        "FlatHPPoolMod": 250
+    },
+    "323002": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 45,
+        "PercentMovementSpeedMod": 0.06
+    },
+    "323003": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 70
+    },
+    "323004": {
+        "FlatMPPoolMod": 500,
+        "FlatPhysicalDamageMod": 35
+    },
+    "323040": {
+        "FlatMPPoolMod": 1000,
+        "FlatMagicDamageMod": 70
+    },
+    "323042": {
+        "FlatMPPoolMod": 860,
+        "FlatPhysicalDamageMod": 35
+    },
+    "323050": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 30
+    },
+    "323070": {
+        "FlatMPPoolMod": 240
+    },
+    "323075": {
+        "FlatHPPoolMod": 200,
+        "FlatArmorMod": 85
+    },
+    "323107": {
+        "FlatHPPoolMod": 400
+    },
+    "323109": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 50
+    },
+    "323110": {
+        "FlatMPPoolMod": 500,
+        "FlatArmorMod": 75
+    },
+    "323119": {
+        "FlatMPPoolMod": 500,
+        "FlatHPPoolMod": 550
+    },
+    "323121": {
+        "FlatMPPoolMod": 860,
+        "FlatHPPoolMod": 550
+    },
+    "323190": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 250,
+        "FlatArmorMod": 30
+    },
+    "323222": {
+        "FlatHPPoolMod": 400
+    },
+    "323504": {
+        "FlatMagicDamageMod": 55,
+        "PercentMovementSpeedMod": 0.06
+    },
+    "324005": {
+        "FlatMagicDamageMod": 65
+    },
+    "326616": {
+        "FlatMagicDamageMod": 45
+    },
+    "326617": {
+        "FlatHPPoolMod": 400,
+        "FlatMagicDamageMod": 35
+    },
+    "326620": {
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 35
+    },
+    "326621": {
+        "FlatMagicDamageMod": 50
+    },
+    "326657": {
+        "FlatMPPoolMod": 400,
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 45
+    },
+    "328020": {
+        "FlatSpellBlockMod": 50,
+        "FlatHPPoolMod": 350
+    },
+    "3302": {
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.35
+    },
+    "3330": {},
+    "3340": {},
+    "3348": {},
+    "3349": {},
+    "3363": {},
+    "3364": {},
+    "3398": {},
+    "3399": {},
+    "3400": {},
+    "3430": {
+        "FlatMagicDamageMod": 50,
+        "FlatCritChanceMod": 0.25
+    },
+    "3504": {
+        "FlatMagicDamageMod": 45,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3508": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 60
+    },
+    "3513": {},
+    "3599": {},
+    "3600": {},
+    "3742": {
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 55,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "3748": {
+        "FlatHPPoolMod": 600,
+        "FlatPhysicalDamageMod": 40
+    },
+    "3801": {
+        "FlatHPPoolMod": 200
+    },
+    "3802": {
+        "FlatMPPoolMod": 300,
+        "FlatMagicDamageMod": 40
+    },
+    "3803": {
+        "FlatMPPoolMod": 375,
+        "FlatHPPoolMod": 350
+    },
+    "3814": {
+        "FlatHPPoolMod": 250,
+        "FlatPhysicalDamageMod": 50
+    },
+    "3850": {
+        "FlatHPPoolMod": 25,
+        "FlatMagicDamageMod": 10
+    },
+    "3851": {
+        "FlatHPPoolMod": 70,
+        "FlatMagicDamageMod": 15
+    },
+    "3853": {
+        "FlatHPPoolMod": 75,
+        "FlatMagicDamageMod": 40
+    },
+    "3854": {
+        "FlatHPPoolMod": 50,
+        "FlatPhysicalDamageMod": 4
+    },
+    "3855": {
+        "FlatHPPoolMod": 100,
+        "FlatPhysicalDamageMod": 6
+    },
+    "3857": {
+        "FlatHPPoolMod": 250,
+        "FlatPhysicalDamageMod": 15
+    },
+    "3858": {
+        "FlatHPPoolMod": 50,
+        "FlatMagicDamageMod": 7
+    },
+    "3859": {
+        "FlatHPPoolMod": 100,
+        "FlatMagicDamageMod": 10
+    },
+    "3860": {
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 20
+    },
+    "3862": {
+        "FlatHPPoolMod": 25,
+        "FlatPhysicalDamageMod": 6
+    },
+    "3863": {
+        "FlatHPPoolMod": 60,
+        "FlatPhysicalDamageMod": 10
+    },
+    "3864": {
+        "FlatHPPoolMod": 75,
+        "FlatPhysicalDamageMod": 20
+    },
+    "3865": {
+        "FlatHPPoolMod": 30
+    },
+    "3866": {
+        "FlatHPPoolMod": 100
+    },
+    "3867": {
+        "FlatHPPoolMod": 200
+    },
+    "3869": {
+        "FlatHPPoolMod": 200
+    },
+    "3870": {
+        "FlatHPPoolMod": 200
+    },
+    "3871": {
+        "FlatHPPoolMod": 200
+    },
+    "3876": {
+        "FlatHPPoolMod": 200
+    },
+    "3877": {
+        "FlatHPPoolMod": 200
+    },
+    "3901": {},
+    "3902": {},
+    "3903": {},
+    "3916": {
+        "FlatMagicDamageMod": 25
+    },
+    "4003": {
+        "FlatPhysicalDamageMod": 20
+    },
+    "4004": {
+        "FlatPhysicalDamageMod": 70
+    },
+    "4005": {
+        "FlatMagicDamageMod": 60
+    },
+    "4010": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 60
+    },
+    "4011": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 45
+    },
+    "4012": {
+        "FlatSpellBlockMod": 45,
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 45
+    },
+    "4013": {
+        "FlatSpellBlockMod": 30,
+        "FlatMagicDamageMod": 70,
+        "FlatArmorMod": 30
+    },
+    "4014": {
+        "FlatHPPoolMod": 600,
+        "PercentAttackSpeedMod": 0.6
+    },
+    "4015": {
+        "FlatMagicDamageMod": 60,
+        "PercentMovementSpeedMod": 0.05
+    },
+    "4016": {
+        "FlatMagicDamageMod": 50
+    },
+    "4017": {
+        "FlatPhysicalDamageMod": 35
+    },
+    "4401": {
+        "FlatSpellBlockMod": 55,
+        "FlatHPPoolMod": 400,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "4402": {
+        "FlatMPPoolMod": 300,
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 30
+    },
+    "4403": {
+        "FlatSpellBlockMod": 30,
+        "FlatMPPoolMod": 250,
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 120,
+        "FlatArmorMod": 30,
+        "FlatCritChanceMod": 0.3,
+        "FlatPhysicalDamageMod": 70,
+        "PercentAttackSpeedMod": 0.5,
+        "PercentLifeStealMod": 0.1,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "443054": {
+        "FlatArmorMod": 55,
+        "PercentAttackSpeedMod": 0.5,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "443055": {
+        "FlatPhysicalDamageMod": 55,
+        "PercentAttackSpeedMod": 0.45,
+        "PercentMovementSpeedMod": 0.15
+    },
+    "443056": {},
+    "443058": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 100
+    },
+    "443059": {
+        "FlatSpellBlockMod": 100,
+        "FlatHPPoolMod": 300
+    },
+    "443060": {
+        "FlatCritChanceMod": 0.5
+    },
+    "443061": {
+        "FlatHPPoolMod": 900,
+        "FlatCritChanceMod": 0.25
+    },
+    "443062": {
+        "FlatMagicDamageMod": 80
+    },
+    "443063": {
+        "FlatSpellBlockMod": 50,
+        "FlatArmorMod": 50
+    },
+    "443064": {},
+    "443069": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 45,
+        "PercentAttackSpeedMod": 0.4
+    },
+    "443079": {
+        "FlatHPPoolMod": 600
+    },
+    "443080": {},
+    "443081": {
+        "FlatHPPoolMod": 500,
+        "PercentAttackSpeedMod": 0.75
+    },
+    "443083": {
+        "FlatHPPoolMod": 1100,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "443090": {
+        "PercentAttackSpeedMod": 0.5,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "443193": {
+        "FlatSpellBlockMod": 65,
+        "FlatArmorMod": 65,
+        "PercentMovementSpeedMod": 0.1
+    },
+    "444636": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 90
+    },
+    "444637": {
+        "FlatHPPoolMod": 700,
+        "FlatMagicDamageMod": 80
+    },
+    "444644": {
+        "FlatMPPoolMod": 600,
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 85
+    },
+    "446632": {
+        "FlatHPPoolMod": 350,
+        "FlatPhysicalDamageMod": 55
+    },
+    "446656": {
+        "FlatMPPoolMod": 600,
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 100
+    },
+    "446667": {
+        "FlatSpellBlockMod": 35,
+        "FlatHPPoolMod": 400,
+        "FlatArmorMod": 35
+    },
+    "446671": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 65,
+        "PercentAttackSpeedMod": 0.3,
+        "PercentMovementSpeedMod": 0.12
+    },
+    "446691": {
+        "FlatPhysicalDamageMod": 50
+    },
+    "446693": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "447100": {
+        "PercentAttackSpeedMod": 0.6,
+        "PercentMovementSpeedMod": 0.12
+    },
+    "447101": {
+        "PercentAttackSpeedMod": 0.7,
+        "PercentMovementSpeedMod": 0.08
+    },
+    "447102": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 80,
+        "PercentAttackSpeedMod": 0.4
+    },
+    "447103": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "447104": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 70
+    },
+    "447105": {
+        "FlatMagicDamageMod": 70
+    },
+    "447106": {},
+    "447107": {
+        "PercentAttackSpeedMod": 0.5,
+        "PercentMovementSpeedMod": 0.12
+    },
+    "447108": {
+        "FlatMagicDamageMod": 80,
+        "PercentMovementSpeedMod": 0.08
+    },
+    "447109": {
+        "FlatSpellBlockMod": 30,
+        "FlatMagicDamageMod": 80,
+        "FlatArmorMod": 30
+    },
+    "447110": {
+        "FlatHPPoolMod": 400,
+        "FlatMagicDamageMod": 85
+    },
+    "447111": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 40
+    },
+    "447112": {
+        "FlatHPPoolMod": 500
+    },
+    "447113": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 90
+    },
+    "447114": {
+        "FlatSpellBlockMod": 35,
+        "FlatArmorMod": 35,
+        "PercentAttackSpeedMod": 0.4
+    },
+    "447115": {
+        "FlatPhysicalDamageMod": 60,
+        "PercentMovementSpeedMod": 0.08
+    },
+    "447116": {
+        "FlatHPPoolMod": 400
+    },
+    "447118": {
+        "FlatHPPoolMod": 400
+    },
+    "447119": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 500,
+        "FlatArmorMod": 30,
+        "PercentAttackSpeedMod": 0.3,
+        "PercentMovementSpeedMod": 0.08
+    },
+    "447120": {
+        "PercentAttackSpeedMod": 0.3
+    },
+    "447121": {
+        "FlatMagicDamageMod": 100,
+        "FlatPhysicalDamageMod": 70
+    },
+    "447122": {
+        "FlatHPPoolMod": 900
+    },
+    "447123": {
+        "PercentAttackSpeedMod": 0.3
+    },
+    "4628": {
+        "FlatMagicDamageMod": 115
+    },
+    "4629": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 70,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "4630": {
+        "FlatMagicDamageMod": 25
+    },
+    "4632": {
+        "FlatSpellBlockMod": 25,
+        "FlatMagicDamageMod": 40
+    },
+    "4633": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 70
+    },
+    "4635": {
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 20
+    },
+    "4636": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 90
+    },
+    "4637": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 75
+    },
+    "4638": {
+        "FlatSpellBlockMod": 15,
+        "FlatHPPoolMod": 150,
+        "FlatArmorMod": 10
+    },
+    "4641": {
+        "FlatHPPoolMod": 80
+    },
+    "4642": {
+        "FlatMagicDamageMod": 20
+    },
+    "4643": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 250,
+        "FlatArmorMod": 25
+    },
+    "4644": {
+        "FlatMPPoolMod": 600,
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 85
+    },
+    "4645": {
+        "FlatMagicDamageMod": 110
+    },
+    "4646": {
+        "FlatMagicDamageMod": 90,
+        "PercentMovementSpeedMod": 0.06
+    },
+    "6029": {
+        "FlatPhysicalDamageMod": 30
+    },
+    "6035": {
+        "FlatSpellBlockMod": 40,
+        "FlatHPPoolMod": 300,
+        "FlatPhysicalDamageMod": 40
+    },
+    "6333": {
+        "FlatArmorMod": 50,
+        "FlatPhysicalDamageMod": 60
+    },
+    "6609": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 45
+    },
+    "6610": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 40
+    },
+    "6616": {
+        "FlatMagicDamageMod": 35
+    },
+    "6617": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 25
+    },
+    "6620": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 35
+    },
+    "6621": {
+        "FlatMagicDamageMod": 45
+    },
+    "6630": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 55
+    },
+    "6631": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.25
+    },
+    "6632": {
+        "FlatHPPoolMod": 300,
+        "FlatPhysicalDamageMod": 40
+    },
+    "6653": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 60
+    },
+    "6655": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 100
+    },
+    "6656": {
+        "FlatMPPoolMod": 600,
+        "FlatHPPoolMod": 250,
+        "FlatMagicDamageMod": 70
+    },
+    "6657": {
+        "FlatMPPoolMod": 400,
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 45
+    },
+    "6660": {
+        "FlatHPPoolMod": 150
+    },
+    "6662": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 50
+    },
+    "6664": {
+        "FlatSpellBlockMod": 40,
+        "FlatHPPoolMod": 400
+    },
+    "6665": {
+        "FlatSpellBlockMod": 45,
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 45
+    },
+    "6667": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 30
+    },
+    "6670": {
+        "FlatCritChanceMod": 0.2,
+        "FlatPhysicalDamageMod": 15
+    },
+    "6671": {
+        "FlatCritChanceMod": 0.2,
+        "FlatPhysicalDamageMod": 50,
+        "PercentAttackSpeedMod": 0.15,
+        "PercentMovementSpeedMod": 0.07
+    },
+    "6672": {
+        "FlatPhysicalDamageMod": 45,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "6673": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 55
+    },
+    "6675": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "6676": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 50
+    },
+    "6677": {
+        "PercentAttackSpeedMod": 0.25
+    },
+    "6690": {
+        "FlatPhysicalDamageMod": 15,
+        "PercentMovementSpeedMod": 0.04
+    },
+    "6691": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "6692": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "6693": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "6694": {
+        "FlatPhysicalDamageMod": 45
+    },
+    "6695": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "6696": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "6697": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "6698": {
+        "FlatPhysicalDamageMod": 60
+    },
+    "6699": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "6700": {
+        "FlatArmorMod": 30,
+        "FlatPhysicalDamageMod": 50,
+        "PercentMovementSpeedMod": 0.05
+    },
+    "6701": {
+        "FlatPhysicalDamageMod": 55
+    },
+    "6702": {},
+    "7050": {},
+    "8001": {
+        "FlatHPPoolMod": 650
+    },
+    "8010": {
+        "FlatHPPoolMod": 400,
+        "FlatMagicDamageMod": 65
+    },
+    "8020": {
+        "FlatSpellBlockMod": 45,
+        "FlatHPPoolMod": 350
+    },
+    "9168": {},
+    "9171": {},
+    "9172": {},
+    "9173": {},
+    "9174": {},
+    "9175": {},
+    "9176": {},
+    "9177": {},
+    "9178": {},
+    "9179": {},
+    "9180": {},
+    "9181": {},
+    "9183": {},
+    "9184": {},
+    "9185": {},
+    "9187": {},
+    "9188": {},
+    "9189": {},
+    "9190": {},
+    "9192": {},
+    "9193": {},
+    "9271": {},
+    "9272": {},
+    "9273": {},
+    "9274": {},
+    "9275": {},
+    "9276": {},
+    "9277": {},
+    "9278": {},
+    "9279": {},
+    "9280": {},
+    "9281": {},
+    "9283": {},
+    "9284": {},
+    "9285": {},
+    "9287": {},
+    "9288": {},
+    "9289": {},
+    "9290": {},
+    "9292": {},
+    "9293": {},
+    "9300": {},
+    "9301": {},
+    "9302": {},
+    "9303": {},
+    "9304": {},
+    "9305": {},
+    "9306": {},
+    "9307": {},
+    "9308": {},
+    "9400": {},
+    "9401": {},
+    "9402": {},
+    "9403": {},
+    "9404": {},
+    "9405": {},
+    "9406": {},
+    "9407": {},
+    "9408": {}
+}
