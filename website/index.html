@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>League of Legends Win Predictor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f0f2f5;
+    }
+    label, input, button {
+      display: block;
+      margin-bottom: 15px;
+      width: 100%;
+    }
+    button {
+      padding: 10px;
+      background-color: #4caf50;
+      border: none;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #result {
+      margin-top: 30px;
+      padding: 15px;
+      background: white;
+      border-radius: 5px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>League of Legends Win Predictor</h1>
+
+  <form id="player-form">
+    <label for="summonerName">Enter your Summoner Name:</label>
+    <input type="text" id="summonerName" name="summonerName" placeholder="e.g. Summoner123" required />
+    <button type="submit">Analyze My Games</button>
+  </form>
+
+  <div id="result" style="display:none;"></div>
+
+  <script>
+    const form = document.getElementById('player-form');
+    const resultDiv = document.getElementById('result');
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault(); // prevent page reload
+
+      const summonerName = document.getElementById('summonerName').value.trim();
+      if (!summonerName) return;
+
+      resultDiv.style.display = 'block';
+      resultDiv.textContent = 'Analyzing... please wait.';
+
+      try {
+        // Replace this URL with your backend API endpoint
+        const response = await fetch('http://localhost:3000/analyze', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ summonerName }),
+        });
+
+        if (!response.ok) throw new Error('Network response was not ok');
+
+        const data = await response.json();
+
+        // Display some example results — adjust to your API response
+        resultDiv.innerHTML = `
+          <h3>Analysis Results for ${summonerName}</h3>
+          <p>Predicted Win Probability: ${(data.win_probability * 100).toFixed(1)}%</p>
+          <p>Top Features Impacting Your Wins: ${data.top_features.join(', ')}</p>
+        `;
+      } catch (error) {
+        resultDiv.textContent = 'Error fetching analysis: ' + error.message;
+      }
+    });
+  </script>
+</body>
+</html>
