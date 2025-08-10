@@ -46,11 +46,38 @@
           class="w-full bg-purple-900 border border-purple-600 rounded-md px-4 py-2 text-gray-100 placeholder-purple-400 focus:outline-none focus:ring-2 focus:ring-purple-400 focus:border-purple-500"
         />
       </div>
+      <div>
+        <label for="tagLine" class="block mb-2 font-semibold text-purple-200">Enter your Tag Line:</label>
+        <input
+          id="tagLine"
+          name="tagLine"
+          type="text"
+          required
+          placeholder="e.g. NA1"
+          class="w-full bg-purple-900 border border-purple-600 rounded-md px-4 py-2 text-gray-100 placeholder-purple-400 focus:outline-none focus:ring-2 focus:ring-purple-400 focus:border-purple-500"
+        />
+      </div>
+      <div>
+        <label for="region" class="block mb-2 font-semibold text-purple-200">Select your Region:</label>
+        <select
+          id="region"
+          name="region"
+          required
+          class="w-full bg-purple-900 border border-purple-600 rounded-md px-4 py-2 text-gray-100 focus:outline-none focus:ring-2 focus:ring-purple-400 focus:border-purple-500"
+        >
+          <option value="">Select region</option>
+          <option value="americas">Americas</option>
+          <option value="europe">Europe</option>
+          <option value="asia">Asia</option>
+          <option value="sea">SEA</option>
+        </select>
+      </div>
       <button
-        type="submit"
+        type="button"
+        id="fetchButton"
         class="w-full bg-purple-600 hover:bg-purple-700 active:bg-purple-800 text-white py-3 rounded-md font-semibold shadow-lg transition"
       >
-        Analyze My Games
+        Get PUUID
       </button>
     </form>
     <div
@@ -61,66 +88,11 @@
 
   <footer class="fixed bottom-0 left-0 w-full bg-black bg-opacity-80 text-center text-purple-400 py-3 text-sm select-none">
   Built by Avi Khurana •
-  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" class="underline hover:text-purple-200">
+  <a href="https://github.com/askhuran" target="_blank" rel="noopener noreferrer" class="underline hover:text-purple-200">
     GitHub
   </a>
-</footer>
+  </footer>
 
-  <script>
-    const form = document.getElementById('player-form');
-    const resultDiv = document.getElementById('result');
-
-    // Create loading spinner element once, reuse later
-    const spinner = document.createElement('div');
-    spinner.className = 'flex justify-center items-center';
-    spinner.innerHTML = `
-      <svg class="animate-spin h-6 w-6 text-purple-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"></path>
-      </svg>
-    `;
-
-    form.addEventListener('submit', async (event) => {
-      event.preventDefault();
-
-      const summonerName = document.getElementById('summonerName').value.trim();
-      if (!summonerName) return;
-
-      resultDiv.classList.remove('hidden');
-      resultDiv.innerHTML = ''; // clear old results
-      resultDiv.appendChild(spinner); // show spinner
-
-      try {
-        const response = await fetch('http://localhost:3000/analyze', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ summonerName }),
-        });
-
-        if (!response.ok) throw new Error('Network response was not ok');
-
-        const data = await response.json();
-
-        // Remove spinner and show results
-        resultDiv.removeChild(spinner);
-
-        resultDiv.innerHTML = `
-          <h3 class="text-xl font-semibold mb-2">Analysis Results for ${summonerName}</h3>
-          <p>Predicted Win Probability: <strong>${(data.win_probability * 100).toFixed(1)}%</strong></p>
-          <p>
-            Top Features Impacting Your Wins:
-            <span
-              title="These are the most influential stats from your recent games that impact your win chances."
-              class="cursor-help border-b border-purple-400"
-              >${data.top_features.join(', ')}</span
-            >
-          </p>
-        `;
-      } catch (error) {
-        resultDiv.removeChild(spinner);
-        resultDiv.textContent = 'Error fetching analysis: ' + error.message;
-      }
-    });
-  </script>
+  <script src="main.js"></script>
 </body>
 </html>
